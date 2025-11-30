@@ -1,4 +1,4 @@
-# === Contribution by Leader – [Your Name] – DevOps Project 2025 ===
+# === Contribution by Leader – Raid Kellil – DevOps Project 2025 ===
 # Full login system with secure password hashing
 
 from PyQt6.QtWidgets import (
