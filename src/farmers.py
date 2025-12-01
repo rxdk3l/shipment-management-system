@@ -1,4 +1,4 @@
-# === Contribution by Member 3 – [Member 3 Name] – DevOps Project 2025 ===
+# === Contribution by Member 3 – radjab beddiar – DevOps Project 2025 ===
 # Farmers list, transfers, returns
 
 from PyQt6.QtWidgets import (
