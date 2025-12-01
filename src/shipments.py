@@ -1,4 +1,4 @@
-# === Contribution by Member 1 – Houssam Maou – DevOps Project 2025 ===
+# === Contribution by Member 1 –maou houssem eddin – DevOps Project 2025 ===
 # Complete Shipments module: list, add with farmer distribution, details view, receipts
 
 from PyQt6.QtWidgets import (
