@@ -1,4 +1,4 @@
-# === Contribution by Member 2 – [Member 2 Name] – DevOps Project 2025 ===
+# === Contribution by Member 2 –maou houssem eddin – DevOps Project 2025 ===
 # Full Products management + statistics
 
 from PyQt6.QtWidgets import (
